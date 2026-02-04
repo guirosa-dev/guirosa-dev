@@ -14,6 +14,9 @@ Always looking for challenges that involve **process automation**, **responsive 
   <a href="https://github.com/guirosa-dev">
     <img src="https://img.shields.io/badge/GitHub-guirosa--dev-181717?style=for-the-badge&logo=github" />
   </a>
+  <a href="https://www.linkedin.com/in/gui-rosa1">
+    <img src="https://img.shields.io/badge/LinkedIn-gui--rosa1-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="https://www.instagram.com/o_guilherme.r/">
     <img src="https://img.shields.io/badge/Instagram-o__guilherme.r-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
