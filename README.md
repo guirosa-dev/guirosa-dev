@@ -44,8 +44,8 @@ Always looking for challenges that involve **process automation**, **responsive 
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=guirosa-dev&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guirosa-dev&layout=compact&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=guirosa-dev&show_icons=true&theme=tokyonight&count_private=true" alt="Guilherme's GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guirosa-dev&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
