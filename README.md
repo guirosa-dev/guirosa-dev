@@ -34,13 +34,6 @@ Always looking for challenges that involve **process automation**, **responsive 
 
 ---
 
-## 🧠 Core Competencies
-
-- **Python Automation:** Developing scripts to optimize workflows and handle data processing.
-- **Responsive Web Design:** Building modern, mobile-first interfaces using Bootstrap and CSS.
-- **Dynamic Web Applications:** Creating front-end solutions focused on user experience and JavaScript logic.
----
-
 ## 📊 GitHub Stats
 
 <p align="left">
@@ -50,13 +43,5 @@ Always looking for challenges that involve **process automation**, **responsive 
 
 ---
 
-## 🚀 Philosophy
-
-> "Great software is built on two pillars: relentless learning and consistent improvement. I don't just write code; I build foundations for better user experiences."
-
----
-
-⭐ If you like my work, consider starring a repository  
-🤝 Always open to collaborations, partnerships, and cool ideas
 
 
