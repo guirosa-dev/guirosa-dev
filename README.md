@@ -1,4 +1,4 @@
-# Hello World 🌍👋, I'm Guilherme Rosa
+# Hello World!, I'm Guilherme Rosa
 
  **Software Engineer**  🇧🇷 Brazil
 
@@ -6,9 +6,9 @@ I am a software developer focused on building **functional web solutions** and *
 
 Always looking for challenges that involve **process automation**, **responsive design**, and **scalable systems**. I'm a fast learner, deeply committed to writing maintainable code and contributing to meaningful projects.
 
----
 
-## Connect with me!
+
+### Connect with me!
 
 <p align="left">
   <a href="https://github.com/guirosa-dev">
@@ -19,7 +19,7 @@ Always looking for challenges that involve **process automation**, **responsive 
   </a>
 </p>
 
----
+
 
 ###  My Stack
 
@@ -31,16 +31,16 @@ Always looking for challenges that involve **process automation**, **responsive 
   <img align="center" alt="Bootstrap" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 </div>
 
----
 
-##  GitHub Stats
+
+###  GitHub Stats
 
 <p align="left">
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=guirosa-dev&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=guirosa-dev&layout=compact&theme=tokyonight" />
 </p>
 
----
+
 
 
 
